@@ -1,0 +1,128 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+
+
+
+}
+
+.top-banner {
+    padding: 5%;
+
+
+    height: 400px;
+    background-size: auto;
+    background-image: url(images/donation5.jpg);
+
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.top-banner h1 {
+    font-size: 50px;
+}
+
+.top-banner p {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
+
+.top-banner a {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.middle-banner {
+    padding-top: 5%;
+    text-align: center;
+    
+}
+.middle-banner h1{
+    font-weight: 40px;
+}
+
+.taka-count {
+    display: flex;
+    padding-left: 30%;
+    padding-right: 20%;
+    width: 40%;
+    padding-bottom: 3%;
+
+    margin-right: 5%;
+
+
+}
+
+.range1 {
+
+
+    padding: 5%;
+
+    border-radius: 20px;
+
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 10px;
+
+
+
+
+}
+
+.range2 {
+    padding: 5%;
+    border-radius: 20px;
+    margin-right: 10px;
+    border: 2px solid tomato;
+
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+.range3 {
+    padding: 5%;
+    border-radius: 20px;
+    margin-right: 10px;
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+.range4 {
+    padding: 5%;
+    border-radius: 20px;
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+.middle-banner a {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+
+}
+
+.amount-taka {
+    color: gray;
+}
+
+.line {
+    margin-bottom: 5%;
+}
+.our-donate-plan{
+    text-align: center;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.our-donate-plan h1{
+    font-weight: 700;
+}
