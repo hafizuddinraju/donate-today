@@ -12,7 +12,8 @@ body {
 
     height: 400px;
 
-    background-image: url(images/donation5.jpg);
+    background-image: url(images/donation5.png);
+    background-color: black;
 
     background-size: 100% 100%;
     background-repeat: no-repeat;
