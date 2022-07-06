@@ -11,7 +11,7 @@ body {
 
 
     height: 400px;
-    
+
     background-image: url(images/donation5.jpg);
 
     background-size: 100% 100%;
@@ -42,9 +42,10 @@ body {
 .middle-banner {
     padding-top: 5%;
     text-align: center;
-    
+
 }
-.middle-banner h1{
+
+.middle-banner h1 {
     font-weight: 40px;
 }
 
@@ -117,54 +118,63 @@ body {
 .line {
     margin-bottom: 5%;
 }
-.our-donate-plan{
+
+.our-donate-plan {
     text-align: center;
     padding-top: 5%;
     padding-left: 20%;
     padding-right: 20%;
 }
-.our-donate-plan h1{
+
+.our-donate-plan h1 {
     font-weight: 700;
 }
-.family-items{
+
+.family-items {
     padding-top: 5%;
     display: flex;
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
 }
-.items-1{
+
+.items-1 {
     background-color: rgb(179, 171, 171);
     padding: 3%;
     margin: 2%;
     text-align: justify;
     border-radius: 10px;
 }
-.items-2{
+
+.items-2 {
     background-color: rgb(204, 147, 192);
     padding: 3%;
     margin: 2%;
     text-align: justify;
     border-radius: 10px;
 }
-.items-3{
+
+.items-3 {
     background-color: blanchedalmond;
     padding: 3%;
     margin: 2%;
     text-align: justify;
     border-radius: 10px;
 }
-.get-my-update{
+
+.get-my-update {
     text-align: center;
     padding-left: 30%;
     padding-right: 30%;
 }
-.get-my-update h1{
+
+.get-my-update h1 {
     font-weight: bold;
 }
-.info{
-    
-    
+
+.info {
+
+
     display: flex;
     padding-top: 4%;
     padding-left: 35%;
@@ -175,19 +185,21 @@ body {
 
     margin-right: 5%;
 }
-.info-1{
-    
+
+.info-1 {
+
     border-radius: 20px;
     padding-top: 5%;
     padding-right: 50%;
     padding-left: 3%;
     color: gray;
-    
+
     margin-right: 10px;
     box-shadow: 10px 10px 40px gray;
 
 }
-.info-2{
+
+.info-2 {
     padding: 5%;
     border-radius: 20px;
     margin-right: 10px;
@@ -196,9 +208,35 @@ body {
 
     box-shadow: 10px 10px 40px gray;
 }
-footer{
+
+.last-end-banner {
+    display: flex;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    margin-left: 6%;
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+
+
+.Instagram {
+    padding-left: 20%;
+}
+
+.Dribble {
+    padding-left: 20%;
+}
+
+footer {
     text-align: center;
     background-color: rgb(108, 111, 143);
     padding-top: 3%;
     padding-bottom: 3%;
+    color: white;
 }
